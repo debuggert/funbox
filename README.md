@@ -1,3 +1,7 @@
+# funbox
+Тестовое задание для компании funbox
+
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# funbox
+Тестовое задание для компании funbox
+>>>>>>> 4dcfd9212b5b867492a2dda68844d64f2f6ced5a
